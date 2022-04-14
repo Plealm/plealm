@@ -1,3 +1,5 @@
+![ciudad](https://user-images.githubusercontent.com/84750731/163306949-d75504c8-2b93-419a-b4d8-14c536702cbe.gif)
+
 ### Hi there, I'm Pedro Jose :3 👋
 
 - 🔭 I’m currently working on development
