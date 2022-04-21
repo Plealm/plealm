@@ -24,7 +24,6 @@ I've been learning about web design and data analysis, both passionate me to kee
   <a href="https://www.wolfram.com/mathematica/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/000000/wolfram-alpha.png" width="36" height="36" alt="Mathematica" /></a>
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/000000/texshop.png" width="36" height="36" alt="latex" /></a>
   <a href="https://julialang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/JuliaLang/julia-logo-graphics/master/images/julia.ico" width="36" height="36" alt="julia" /></a>
-  
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
