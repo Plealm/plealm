@@ -8,7 +8,7 @@ Physics that love to code and see nature.
 I've been learning about web design and data analysis, both passionate me to keep learning.
 
 * 🌍  I'm based in Bogota, Colombia.
-* 🖥️  See my portfolio at [My portfolio](http://https://plealm.github.io/)
+* 🖥️  See my portfolio at [My portfolio](https://plealm.github.io/)
 * ✉️  You can contact me at [plealm@unal.edu.co](mailto:plealm@unal.edu.co)
 * 🧠  I'm learning Web development and Data science
 * 🤝  I'm open to collaborating on interesting projects
