@@ -33,18 +33,14 @@ I've been learning about web design and data analysis, both passionate me to kee
 
 ### Socials
 
-<p align="center">  <a href="https://www.facebook.com/pedro.leal.9678/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/plealm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/pedroleal293/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/pedro-jose-leal-mesa-57b880231/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/PedroLe79619602" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="center">  <a href="https://www.facebook.com/pedro.leal.9678/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/plealm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/pedroleal293/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/pedro-jose-leal-mesa-57b880231/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/PedroLe79619602" target="_blank" rel="noreferrer"></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
+<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/plealm"><img src="https://github-readme-stats.vercel.app/api?username=plealm&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="plealm's GitHub stats" /></a>
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=plealm&show_icons=true&theme=radical)
 
-<a href="http://www.github.com/plealm"><img src="https://github-readme-streak-stats.herokuapp.com/?user=plealm&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![GitHub Commits Graph](https://activity-graph.herokuapp.com/graph?username=plealm&theme=dracula)
 
-<a href="http://www.github.com/plealm"><img src="https://activity-graph.herokuapp.com/graph?username=plealm&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/plealmS"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
