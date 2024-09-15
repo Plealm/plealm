@@ -42,6 +42,3 @@ I've been learning about web design and data analysis, both passionate me to kee
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=plealm&show_icons=true&theme=radical)
 
 
-![GitHub Commits Graph](https://github-readme-activity-graph.cyclic.app/graph?username=plealm&theme=dracula)
-
-
